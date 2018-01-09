@@ -1,2 +1,2 @@
-# ABSTACT: wykachiwanije ghurnalow junyj technik iz interneta programmoj
-# w avtonomnom reghime.
+# ABSTACT: normalnaja igra na Python'e
+# STATE: being evaluated
